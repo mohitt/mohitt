@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+This is Mohit Thakral, I go by Mo. I am polyglot software engineer, with 18+ years of software engineering experience. I a Lead Software Engineer at Docusign and I have been a Sr. Prinicpal Software Engineer in Dell. 
+
+My linked in - https://www.linkedin.com/in/mohitt/ 
+
 <!--
 **mohitt/mohitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
